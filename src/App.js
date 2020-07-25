@@ -5,7 +5,6 @@ import heli from './heli.gif';
 import "./App.css";
 
 
-
 const App = () => {
   let imgRef = useRef(null);
 
